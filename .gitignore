@@ -2,3 +2,5 @@
 /data
 /model_checkpts
 /wandb
+2_train/wandb/
+2_train/model_checkpts/
